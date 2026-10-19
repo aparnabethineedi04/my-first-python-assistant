@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+notes.txt
+my_notes.txt
+tasks.json
